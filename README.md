@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Function 1 – Transfer Pathways Toolkit
 
 Undergraduate research under **Dr. David Reeping** (University of Cincinnati).
